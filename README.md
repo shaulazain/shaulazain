@@ -1,3 +1,4 @@
+![logo](https://github.com/shaulazain/shaulazain/blob/main/Black%20Gold%20Glitter%20Beauty%20Blogger%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shahzaib</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
