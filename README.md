@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaulazain&label=Profile%20views&color=0e75b6&style=flat" alt="shaulazain" /> </p>
 
-- 🔭 I’m currently working on Inventory Management System
+- 🔭 I’m currently working on **Inventory Management System**
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://react-3d-portfolio-430.netlify.app](https://react-3d-portfolio-430.netlify.app)
 
