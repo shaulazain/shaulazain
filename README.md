@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaulazain&label=Profile%20views&color=0e75b6&style=flat" alt="shaulazain" /> </p>
 
-- 🔭 I’m currently working on [OCHI DESIGN](https://ochidesign430.netlify.app)
+- 🔭 I’m currently working on Inventory Management System
 
 - 🌱 I’m currently learning **Mern Stack**
 
